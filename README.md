@@ -1,6 +1,6 @@
 # Fajar Arif Kurniawan
 
-### I am a Bachelor degree in Physics and I am Data Science Student from Data Science Bootcamp in Rakamin Academy. Have an interest in data science and data analysis. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models.
+### I am a Bachelor degree in Physics and I am [Data Science Student from Data Science Bootcamp in Rakamin Academy](https://rakamin.com). Have an interest in data science and data analysis. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models.
 
 💻 Languages and Tools:
 1. ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
